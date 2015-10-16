@@ -9,6 +9,7 @@ int main()
 {
    cout << "Hello World. Testing GitHub!\n";
    cout << "Making change #1\n";
+   cout << "Making change #2\n";
 	return 0;
 }
 
